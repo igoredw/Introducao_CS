@@ -1,0 +1,14 @@
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.AssemblyInfoInputs.cache
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.AssemblyInfo.cs
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.csproj.CoreCompileInputs.cache
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\bin\Debug\net6.0\Projeto inicial C#.exe
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\bin\Debug\net6.0\Projeto inicial C#.deps.json
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\bin\Debug\net6.0\Projeto inicial C#.runtimeconfig.json
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\bin\Debug\net6.0\Projeto inicial C#.dll
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\bin\Debug\net6.0\Projeto inicial C#.pdb
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.dll
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\refint\Projeto inicial C#.dll
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.pdb
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\Projeto inicial C#.genruntimeconfig.cache
+C:\Users\36128412023.2\source\repos\Projeto inicial C#\Projeto inicial C#\obj\Debug\net6.0\ref\Projeto inicial C#.dll
